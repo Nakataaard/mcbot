@@ -1,0 +1,13 @@
+{
+    "config": {
+        "name": "Nakata",
+        "guild": "1003279583476453467",
+        "channel": "1005278709550424245",
+        "prefix": "$",
+        "host": "NakataDev",
+        "admins": [
+            "710744237712343052"
+        ]
+    },
+    "type": "config" 
+}
